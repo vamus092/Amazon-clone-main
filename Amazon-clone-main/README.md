@@ -3,10 +3,6 @@
 
 This is a clone of Amazon web application, with improved UI and all major functionalities such as adding products to wishlist, browsing different product categories, adding products to cart, managing shipping details, and payment options. The project is responsive and can be used on any device.
 
-**Demo Video**
-
-
-https://user-images.githubusercontent.com/81776711/224985061-d7012611-8997-4a6b-ba7c-a4fc7f2c9954.mp4
 
 
 # Technologies Used
@@ -96,21 +92,8 @@ Run `npm start` to start the application
 ![image](https://user-images.githubusercontent.com/81776711/224616126-7f3d7bff-e8d5-41dc-adb6-f9f1e6191654.png)
 
 
-**Profile page**
-
-![image](https://user-images.githubusercontent.com/81776711/224616059-925032b3-17a6-481e-80e7-f55016b81a09.png)
 
 
-# UI design inspirations
-
-The UI of the project is completely inspired and even taken from these, all the design credits goes to them:
-
-[Home Page](https://dribbble.com/shots/15350650-Amazon-Website-Redesign-Concept)
-
-[Profile section](https://dribbble.com/shots/20739514-Ecommerce-Account-Page-Dashboard-UXUI)
 
 
-# Contributing
 
-
-Contributions to this project are always welcome. Please feel free to raise an issue or submit a pull request if you find any bug or have any feature requests.
